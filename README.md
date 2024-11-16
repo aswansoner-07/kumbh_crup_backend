@@ -45,7 +45,7 @@ To set up this project locally, follow these steps:
 3. **Set up environment variables**:
    ```bash
    PORT=5000
-  MONGO_URI=<your-mongodb-connection-uri>
+   MONGO_URI=<your-mongodb-connection-uri>
   
 ## Usage
 Once the project is set up, you can start the backend server with the following command:
